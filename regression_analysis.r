@@ -1,8 +1,6 @@
 
 #Load data
 
-#check working directory
-getwd()
 #set working directory
 setwd("E:/")
 #load file in csv format
